@@ -7,7 +7,7 @@ sidebar: auto
 ## isPlainObject
 - 判断传入对象是否是纯粹的对象
 ```js
-  import isPlainObject from '@moomfe/small-utils/utils/isPlainObject';
+  import { isPlainObject } from '@moomfe/small-utils/utils';
 
   isPlainObject({}); // -> true
   isPlainObject(Object.create(null)); // -> true
@@ -17,7 +17,7 @@ sidebar: auto
 ## isNumber
 - 判断传入对象是否是 Number 类型, 并且不为 NaN
 ```js
-  import isNumber from '@moomfe/small-utils/utils/isNumber';
+  import { isNumber } from '@moomfe/small-utils/utils';
 
   isNumber(666); // -> true
   isNumber(new Number(666)); // -> true
@@ -28,7 +28,7 @@ sidebar: auto
 ## isNumeric
 - 判断传入参数是否是数字, 支持判断数字字符串
 ```js
-  import isNumeric from '@moomfe/small-utils/utils/isNumeric';
+  import { isNumeric } from '@moomfe/small-utils/utils';
 
   isNumeric(666); // -> true
   isNumeric('666'); // -> true
@@ -39,7 +39,7 @@ sidebar: auto
 ## isString
 - 判断传入对象是否是 String 类型
 ```js
-  import isString from '@moomfe/small-utils/utils/isString';
+  import { isString } from '@moomfe/small-utils/utils';
 
   isString('666'); // -> true
   isString(new String('666')); // -> true
@@ -49,7 +49,7 @@ sidebar: auto
 ## isObject
 - 判断传入参数是否是 Object 类型, 并且不为 null
 ```js
-  import isObject from '@moomfe/small-utils/utils/isObject';
+  import { isObject } from '@moomfe/small-utils/utils';
 
   isObject({}); // -> true
   isObject([]); // -> true
@@ -61,7 +61,7 @@ sidebar: auto
 ## isFunction
   - 判断传入参数是否是 Function 类型
 ```js
-  import isFunction from '@moomfe/small-utils/utils/isFunction';
+  import { isFunction } from '@moomfe/small-utils/utils';
 
   isFunction(() => {}); // -> true
   isFunction(function() {}); // -> true
@@ -71,7 +71,7 @@ sidebar: auto
 ## isReference
 - 判断传入参数是否是引用类型
 ```js
-  import isReference from '@moomfe/small-utils/utils/isReference';
+  import { isReference } from '@moomfe/small-utils/utils';
 
   isReference({}); // -> true
   isReference([]); // -> true
@@ -89,7 +89,7 @@ sidebar: auto
 ## isPrimitive
 - 判断传入参数是否是原始类型 ( `isReference` 方法的反向 )
 ```js
-  import isPrimitive from '@moomfe/small-utils/utils/isPrimitive';
+  import { isPrimitive } from '@moomfe/small-utils/utils';
 
   isPrimitive(true); // -> true
   isPrimitive(false); // -> true
@@ -107,7 +107,7 @@ sidebar: auto
 ## isPromise
 - 判断传入参数是否是类似于 Promise 的对象
 ```js
-  import isPromise from '@moomfe/small-utils/utils/isPromise';
+  import { isPromise } from '@moomfe/small-utils/utils';
 
   isPromise(new Promise(() => {})) // -> true
   isPromise(Promise.resolve()) // -> true
