@@ -1,0 +1,23 @@
+{
+  "name": "small-utils.moomfe.com",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Wei Zhang",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoomFE/small-utils.moomfe.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MoomFE/small-utils.moomfe.com/issues"
+  },
+  "homepage": "https://github.com/MoomFE/small-utils.moomfe.com#readme",
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
