@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npm run serve",
     "serve": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
