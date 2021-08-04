@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Small Utils',
   description: '前端工具合集',
-
+  dest: 'docs',
   themeConfig: {
     nav: [
       { text: '指引', link: '/guide/' },
