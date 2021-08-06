@@ -12,12 +12,11 @@ sidebar: auto
 
 如果你需要使用 [组件](/components/), 那么需要在以下环境下运行, 当然, 也并不是所有组件都需要以下依赖类库才能运行, 这里只是假设你需要使用所有组件时所需的依赖类库合集
 
-1. [Vite *v2*](https://cn.vitejs.dev/)
-2. [Vue *v2*](https://cn.vuejs.org/)
-3. [Vuetify *v2*](https://vuetifyjs.com/zh-Hans/)
-4. [lodash](https://lodash.com/)
-5. [@vue/composition-api](https://github.com/vuejs/composition-api)
-6. [VueUse](https://vueuse.org/)
+1. [Vue *v2*](https://cn.vuejs.org/)
+2. [Vuetify *v2*](https://vuetifyjs.com/zh-Hans/)
+3. [lodash](https://lodash.com/)
+4. [@vue/composition-api](https://github.com/vuejs/composition-api)
+5. [VueUse](https://vueuse.org/)
 
 ## 安装
 
