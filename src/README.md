@@ -6,7 +6,7 @@ actionText: 快速上手 →
 actionLink: /guide/
 features:
 - title: 常用组件
-  details: 对于常用组件封装, 大部分组件基于 Vuetify 二次封装, 上手即用
+  details: 对于常用组件封装, 部分组件基于 Vuetify 二次封装, 上手即用
 - title: 工具方法
   details: 常用工具方法
 - title: 验证器

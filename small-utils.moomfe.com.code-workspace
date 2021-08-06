@@ -1,0 +1,51 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "EasyExam"
+    },
+    {
+      "path": "src\\.vuepress",
+      "name": "Vuepress"
+    },
+    {
+      "path": "src\\guide",
+      "name": "文档 / 指引"
+    },
+    {
+      "path": "src\\components",
+      "name": "文档 / 组件"
+    },
+    {
+      "path": "src\\utils",
+      "name": "文档 / 工具方法"
+    },
+    {
+      "path": "src\\validator",
+      "name": "文档 / 验证器"
+    },
+    {
+      "path": "src\\styles",
+      "name": "文档 / 样式"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules": true,
+      "package-lock.json": true,
+      "small-utils.moomfe.com.code-workspace": true,
+      "src/.vuepress": true,
+      "src/components": true,
+      "src/guide": true,
+      "src/styles": true,
+      "src/utils": true,
+      "src/validator": true,
+      "yarn-error.log": true
+    },
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+}

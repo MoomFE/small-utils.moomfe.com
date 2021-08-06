@@ -10,6 +10,16 @@ module.exports = {
       { text: '验证器', link: '/validator/' },
       { text: '样式', link: '/styles/' },
       { text: 'GitHub', link: 'https://github.com/MoomFE/Small-Utils' }
-    ]
+    ],
+    sidebar: {
+      '/components/': [
+        '',
+        's-form/',
+        's-input/',
+        's-select/',
+        's-textarea/',
+        's-scrollbars/'
+      ]
+    }
   }
 }
