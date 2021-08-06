@@ -29,7 +29,7 @@ npm install @moomfe/small-utils
 
 # 如果你需要使用 '组件'
 # 还需要安装以下依赖类库, 具体如何安装, 可以看上面各个类库的文档说明
-yarn add vite vue vuetify lodash @vue/composition-api @vueuse/core
+yarn add vue vuetify lodash @vue/composition-api @vueuse/core
 # 或者
-npm install vite vue vuetify lodash @vue/composition-api @vueuse/core
+npm install vue vuetify lodash @vue/composition-api @vueuse/core
 ```
