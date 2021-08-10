@@ -18,7 +18,8 @@ module.exports = {
         's-input/',
         's-select/',
         's-textarea/',
-        's-scrollbars/'
+        's-scrollbars/',
+        's-delay-render/'
       ]
     }
   }

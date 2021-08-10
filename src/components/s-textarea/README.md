@@ -1,4 +1,4 @@
-### s-textarea 文本域
+### Textarea 文本域
 
 `Vuetify` 的 `v-textarea` 组件的上层封装
 

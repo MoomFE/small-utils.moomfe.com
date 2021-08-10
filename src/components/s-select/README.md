@@ -1,4 +1,4 @@
-# s-select 输入框
+# Select 输入框
 
 `Vuetify` 的 `v-select`, `v-autocomplete`, `v-combobox` 组件的上层封装
 

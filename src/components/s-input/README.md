@@ -1,4 +1,4 @@
-# s-input 输入框
+# Input 输入框
 
 `Vuetify` 的 `v-text-field` 组件的上层封装
 

@@ -1,4 +1,4 @@
-# s-form 表单
+# Form 表单
 
 `Vuetify` 的 `v-form` 组件的上层封装
 

@@ -903,6 +903,14 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
+"@moomfe/small-utils@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@moomfe/small-utils/-/small-utils-2.1.0.tgz#7678a5ac0760e7e6ef12b3f26b5a7aedebe2ea2f"
+  integrity sha512-51xOZuSqRq2ONmrrfgpYYYnJ6KfRai217LhZCAw9eZC/Y8Qx12H9PZi+qbftGAYaQ9veb8l2lPk14cpeqEnLEw==
+  dependencies:
+    overlayscrollbars "^1.13.1"
+    overlayscrollbars-vue "^0.2.2"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -5462,6 +5470,16 @@ os-browserify@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/os-browserify/-/os-browserify-0.3.0.tgz#854373c7f5c2315914fc9bfc6bd8238fdda1ec27"
   integrity sha1-hUNzx/XCMVkU/Jv8a9gjj92h7Cc=
+
+overlayscrollbars-vue@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/overlayscrollbars-vue/-/overlayscrollbars-vue-0.2.2.tgz#4a3d4eaf09dbbaae8c52ff0e9219909075eb920e"
+  integrity sha512-JpDkM+fkNp7YbZxZNf9cbSWCa1tylaSUkmdhux+qtVFekH4zpZpM8+GRtOgs7YDDWyVNPkUBQ8FnMRMoBNfoJw==
+
+overlayscrollbars@^1.13.1:
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/overlayscrollbars/-/overlayscrollbars-1.13.1.tgz#0b840a88737f43a946b9d87875a2f9e421d0338a"
+  integrity sha512-gIQfzgGgu1wy80EB4/6DaJGHMEGmizq27xHIESrzXq0Y/J0Ay1P3DWk6tuVmEPIZH15zaBlxeEJOqdJKmowHCQ==
 
 p-cancelable@^1.0.0:
   version "1.1.0"

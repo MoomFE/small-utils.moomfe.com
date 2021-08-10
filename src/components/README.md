@@ -10,3 +10,6 @@
 
 ## 体验优化组件
   1. [s-scrollbars](/components/s-scrollbars/) 滚动条
+
+## 其他组件
+  1. [s-delay-render](/components/s-delay-render/) 延迟渲染
