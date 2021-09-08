@@ -903,10 +903,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@moomfe/small-utils@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@moomfe/small-utils/-/small-utils-2.1.0.tgz#7678a5ac0760e7e6ef12b3f26b5a7aedebe2ea2f"
-  integrity sha512-51xOZuSqRq2ONmrrfgpYYYnJ6KfRai217LhZCAw9eZC/Y8Qx12H9PZi+qbftGAYaQ9veb8l2lPk14cpeqEnLEw==
+"@moomfe/small-utils@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@moomfe/small-utils/-/small-utils-2.3.1.tgz#df14ea38fde2c90d7100e55031f85825992044da"
+  integrity sha512-eRkOeLspMz+G9dc5AjFFRt6/fLILTqMohqa4L9PF1lW1CfuBtUWNlsYQSWc0WGTz+z1lTCtoBc/V4U5MfxYU1Q==
   dependencies:
     overlayscrollbars "^1.13.1"
     overlayscrollbars-vue "^0.2.2"
